@@ -1,0 +1,7 @@
+
+instalar como root
+pip install msgpack
+
+
+actualizada de la version 0.12 a la 1.2.0
+pip install --upgrade bokeh
